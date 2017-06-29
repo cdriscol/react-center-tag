@@ -1,9 +1,9 @@
-# react-center
+# react-center-tag
 Center your react component, the wrong way!
 
 ## installation
 ```bash
-$ yarn add react-center
+$ yarn add react-center-tag
 ```
 
 ## usage
